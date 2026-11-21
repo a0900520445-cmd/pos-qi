@@ -1,0 +1,10 @@
+{
+  "name": "LINE Pay POS 收銀機",
+  "short_name": "LINE Pay POS",
+  "lang": "zh-Hant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1a13",
+  "theme_color": "#0e1a13",
+  "icons": [{ "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
